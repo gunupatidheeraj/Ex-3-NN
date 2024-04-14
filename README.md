@@ -1,5 +1,5 @@
-# ENTER YOUR NAME : HARISH RAGAVENDRA S
-# ENTER YOUR REGISTER NO : 212222230045
+# NAME: HARISH RAGAVENDRA S
+# REG NO: 212222230045
 # EX.NO : 3
 # Implementation of MLP for a non-linearly separable data
 ## Aim:
