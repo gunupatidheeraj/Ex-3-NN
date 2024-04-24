@@ -1,5 +1,5 @@
-# NAME: VISHVAJITH J
-# REG NO: 212222220058
+# NAME: gunupati dheeraj
+# REG NO: 212221040050
 # EX.NO : 3
 # Implementation of MLP for a non-linearly separable data
 ## Aim:
